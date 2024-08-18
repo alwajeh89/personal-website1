@@ -1,7 +1,7 @@
 
 <script>
-    // @ts-ignore
-    import P from "$lib/components/p.svelte";
+ 
+    import P from "$lib/components/P.svelte";
        import Button from "$lib/components/ui/button/button.svelte";
 </script>
 
