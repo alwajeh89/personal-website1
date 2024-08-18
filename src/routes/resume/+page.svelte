@@ -1,7 +1,8 @@
 
 <script>
  
-    import P from "$lib/components/P.svelte";
+    
+    import P from "$lib/components/Paragraph.svelte";
        import Button from "$lib/components/ui/button/button.svelte";
 </script>
 
