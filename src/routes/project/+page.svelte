@@ -1,6 +1,6 @@
 <script lang="ts">
      // @ts-ignore
-     import P2 from "$lib/components/p2.svelte";
+     import P2 from "$lib/components/paragraph2.svelte";
     import { Button } from '$lib/components/ui/button/index.js';
 </script>
 <div class="max-w-screen-lg mx-auto pt-16 flex flex-col gap-16 ">
